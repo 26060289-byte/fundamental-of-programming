@@ -11,7 +11,7 @@
  * @author USER
  */
 import java.util.Scanner;
-public class LabTask_week4sampleans {
+public class LabTask_week4method2 {
     public static void main(String[]args){
         Scanner keyboard=new Scanner(System.in);
         // Get the coordinates of the 3 points
